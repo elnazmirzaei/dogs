@@ -7,4 +7,7 @@ Depends: R (>= 3.5.1)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Depends: NMF,
+    fitdistrplus,
+    mixtools
 RoxygenNote: 6.1.1.9000
